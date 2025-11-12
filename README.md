@@ -1,3 +1,3 @@
 # gitproject
 first
-Aurther - Miseng limbu
+Auther - Miseng limbu
